@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs)
 <!-- default file list end -->
 # ASPxGridView - How to emulate custom and action buttons with tooltips
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2050)**
+<!-- run online end -->
 
 
 <p>While this functionality is not available out of the box, it is possible to emulate command buttons with HTML element and assign tooltips using default HTML approach (attribute <strong>title</strong>).<br><br>In this example, we created a Data Item Template inside the command column:</p>
