@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to emulate custom and action buttons with tooltips
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2050)**
+**[[Run Online]](https://codecentral.devexpress.com/e2050/)**
 <!-- run online end -->
 
 
